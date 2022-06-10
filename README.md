@@ -2,7 +2,7 @@
 
 PART 2: Mise en oeuvre des applications Client serveur
 
-Le serveur demande au client de donner un nombre, aprés le serveur récupère le nombre le multiplie par 5 et envoie au client le résultat.
+Le serveur demande au client de donner un nombre (14), aprés le serveur récupère le nombre le multiplie par 5 et envoie au client le résultat.
 
 
 ![part 2](https://user-images.githubusercontent.com/61788817/159772876-431c271f-593d-4f6b-bd4d-9a87e5944d13.PNG)
